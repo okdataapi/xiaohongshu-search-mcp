@@ -71,7 +71,7 @@ key 只写在你自己用户目录下的配置里，不要放进项目仓库。
 ## 不想跑本地进程？
 
 okdata 有远程 MCP：`https://api.okdata.online/mcp`（Streamable HTTP，请求头 `Authorization: Bearer okd_...`）。
-除了小红书，还能查抖音、微信、快手、B站、微博、知乎、TikTok、X、YouTube、Instagram、Reddit 等，共 17 个平台、196 个接口。配置方法见
+除了小红书，还能查抖音、微信、快手、B站、微博、知乎、TikTok、X、YouTube、Instagram、Reddit 等，共 17 个平台、200 多个接口。配置方法见
 [okdata.online/zh/agents.md](https://okdata.online/zh/agents.md)。
 
 ## 说明
@@ -96,5 +96,5 @@ transport. Needs an okdata key in `OKDATA_API_KEY`: [sign up](https://okdata.onl
 claude mcp add xiaohongshu --scope user -e OKDATA_API_KEY=okd_... -- python3 /path/to/server.py
 ```
 
-Prefer a hosted server? Use okdata's remote MCP at `https://api.okdata.online/mcp` (17 platforms, 196 endpoints).
+Prefer a hosted server? Use okdata's remote MCP at `https://api.okdata.online/mcp` (17 platforms, 200+ endpoints).
 Unofficial; public data only. MIT licence.
