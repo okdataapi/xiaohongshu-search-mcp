@@ -59,7 +59,7 @@ key 只写在你自己用户目录下的配置里，不要放进项目仓库。
 | `user_notes` | 博主最近发的笔记，从新到旧 | $0.02 / 次 |
 | `hot_topics` | 小红书当前推荐给创作者的热点话题 | $0.02 / 次 |
 
-调用失败不扣钱。每个结果都带 `cost_usd`（这次花了多少）和抓取时间，AI 可以据此告诉你花了多少钱、数据是什么时候的。
+请求到了数据源的调用，返回为空、查不到或出错也照常计费；参数错误这类还没请求数据源就被拦下的不扣费。每个结果都带 `cost_usd`（这次花了多少）和抓取时间，AI 可以据此告诉你花了多少钱、数据是什么时候的。
 返回的是精简字段，省 token。
 
 可以直接这样问：
@@ -89,7 +89,7 @@ okdata 有远程 MCP：`https://api.okdata.online/mcp`（Streamable HTTP，请�
 
 A Xiaohongshu (RedNote) MCP server that needs no login: no account, no cookies, no browser. Six read-only tools
 let Claude Code, Codex, Cursor and other MCP clients search notes, read full text and comments, look up creators
-and see hot topics, at $0.02 a call (failed calls are free). One Python 3.9+ file, standard library only, stdio
+and see hot topics, at $0.02 a call (an empty or failed answer from the data source is charged too). One Python 3.9+ file, standard library only, stdio
 transport. Needs an okdata key in `OKDATA_API_KEY`: [sign up](https://okdata.online/signup/?src=gh-xiaohongshu-search-mcp).
 
 ```bash
