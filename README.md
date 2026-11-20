@@ -76,9 +76,9 @@ okdata 有远程 MCP：`https://api.okdata.online/mcp`（Streamable HTTP，请�
 
 ## 说明
 
-- 这是 [okdata](https://okdata.online/zh/) 的示例项目，不是小红书的官方项目。`server.py` 只调用 okdata 的接口，本身没有爬虫。
-  接口文档：[笔记搜索](https://okdata.online/zh/apis/xiaohongshu/notes/search/)、[笔记详情](https://okdata.online/zh/apis/xiaohongshu/notes/get/)、
-  [笔记评论](https://okdata.online/zh/apis/xiaohongshu/notes/comments/list/)。
+- 这是 [okdata](https://okdata.online/zh/?src=gh-xiaohongshu-search-mcp) 的示例项目，不是小红书的官方项目。`server.py` 只调用 okdata 的接口，本身没有爬虫。
+  接口文档：[笔记搜索](https://okdata.online/zh/apis/xiaohongshu/notes/search/?src=gh-xiaohongshu-search-mcp)、[笔记详情](https://okdata.online/zh/apis/xiaohongshu/notes/get/?src=gh-xiaohongshu-search-mcp)、
+  [笔记评论](https://okdata.online/zh/apis/xiaohongshu/notes/comments/list/?src=gh-xiaohongshu-search-mcp)。
 - 只读取公开内容。请尊重作者版权和用户隐私，不要用来骚扰或批量收集个人信息。
 - 测试：`python3 -m unittest discover -s tests`（本地模拟服务器，不联网、不花钱）。
 - 问题和建议请提 issue。MIT 许可证。
