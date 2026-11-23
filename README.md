@@ -48,6 +48,35 @@ env = { OKDATA_API_KEY = "okd_..." }
 
 key 只写在你自己用户目录下的配置里，不要放进项目仓库。
 
+### 真实输出（2026-11-23 实跑）
+
+接好后对 AI 说“搜一下小红书上的防晒笔记”，它会调用 `search_notes`，参数是 `{"query": "防晒"}`。当天这一次返回 14 篇笔记，作者名匿名化、正文截短后是这样：
+
+```console
+{
+  "notes": [
+    {
+      "id": "6a4e2081000000001603f4de",
+      "title": "防晒我只用自己测过的",
+      "url": "https://www.xiaohongshu.com/explore/6a4e2081000000001603f4de",
+      "type": "video",
+      "text": "#理肤泉大哥大防晒霜  #防晒霜推荐  #理肤泉  #防晒推荐 …",
+      "author": "creator_a",
+      "likes": 987, "favorites": 747, "comments": 29, "shares": 15,
+      "published_at": "2026-07-09T05:44:44.000Z"
+    },
+    { "title": "每天防晒，是性价比最高的抗老方式☀️", "author": "creator_b", "likes": 7, "favorites": 7, … },
+    …（共 14 篇）
+  ],
+  "next_cursor": "c1.q90ijTTJvAY9FZ0RgQfNDQ",
+  "cost_usd": 0.02,
+  "fetched_at": "2026-11-23T10:03:02.851Z",
+  "source": "Xiaohongshu via okdata"
+}
+```
+
+`search_notes` 背后那次接口调用的完整响应在 [examples/xiaohongshu.notes.search.json](examples/xiaohongshu.notes.search.json)（14 篇，带标题、正文、链接和点赞收藏评论数，`meta.unavailable` 写明平台不提供浏览数和转发数）。要下一页，让 AI 把 `next_cursor` 传回来。搜索结果会变，以你调用时为准。
+
 ## 能做什么
 
 | 工具 | 作用 | 价格 |

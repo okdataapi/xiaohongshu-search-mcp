@@ -1,0 +1,298 @@
+{
+  "code": "ok",
+  "request_id": "0e910eb8-eaa3-4492-98dc-1433aa7e113c",
+  "warnings": [],
+  "meta": {
+    "capability": "xiaohongshu.notes.search",
+    "result_status": "complete",
+    "billing": {
+      "amount": "0.02",
+      "currency": "USD",
+      "balance_after": "9.057"
+    },
+    "unavailable": {
+      "metrics.views": "platform",
+      "metrics.reposts": "platform",
+      "author.followers": "capability"
+    },
+    "cached": false,
+    "replayed": false,
+    "fetched_at": "2026-11-23T10:03:02.851Z"
+  },
+  "data": {
+    "items": [
+      {
+        "id": "6a4e2081000000001603f4de",
+        "url": "https://www.xiaohongshu.com/explore/6a4e2081000000001603f4de",
+        "type": "video",
+        "title": "防晒我只用自己测过的",
+        "text": "#理肤泉大哥大防晒霜  #防晒霜推荐  #理肤泉  #防晒推荐  #高倍防晒  #防水防汗防晒  #敏感肌防晒  #不晒",
+        "published_at": "2026-07-09T05:44:44.000Z",
+        "author": {
+          "id": "631959…",
+          "username": "creator_a",
+          "name": "creator_a"
+        },
+        "metrics": {
+          "likes": 987,
+          "comments": 29,
+          "shares": 15,
+          "favorites": 747
+        }
+      },
+      {
+        "id": "6afbc992000000001202aa5b",
+        "url": "https://www.xiaohongshu.com/explore/6afbc992000000001202aa5b",
+        "type": "image",
+        "title": "每天防晒，是性价比最高的抗老方式☀️",
+        "text": "很多人以为防晒只是为了不晒黑，其实紫外线还可能加速肌肤光老化，让肤色变得暗沉、不均匀。 日常做好防晒，可以帮助： ✓ 抵",
+        "published_at": "2026-11-17T03:27:14.000Z",
+        "author": {
+          "id": "6adece…",
+          "username": "creator_b",
+          "name": "creator_b"
+        },
+        "metrics": {
+          "likes": 7,
+          "comments": 0,
+          "shares": 0,
+          "favorites": 7
+        }
+      },
+      {
+        "id": "6a71d4fb000000000c033c00",
+        "url": "https://www.xiaohongshu.com/explore/6a71d4fb000000000c033c00",
+        "type": "video",
+        "title": "🇰🇷韩国博主的夏日5款OY防晒推荐☀️",
+        "text": "最近真的好热🔥大家来韩国还不知道该怎么选对适合自己的防晒吗？跟着欧尼一起来看看自己适合哪一款防晒霜吧！ #韩女的秘密",
+        "published_at": "2026-08-04T12:03:07.000Z",
+        "author": {
+          "id": "6a647d…",
+          "username": "creator_c",
+          "name": "creator_c"
+        },
+        "metrics": {
+          "likes": 606,
+          "comments": 54,
+          "shares": 42,
+          "favorites": 310
+        }
+      },
+      {
+        "id": "6a632bde000000000e03c000",
+        "url": "https://www.xiaohongshu.com/explore/6a632bde000000000e03c000",
+        "type": "image",
+        "title": "防晒霜买四留了俩",
+        "text": "买四留俩 蓝胖子的各方面都不错，几十有点贵不太舍得一直用所以入了蛋壳的，这个防晒效果也很强，涂上也挺清爽的挺适合夏天的",
+        "published_at": "2026-07-24T09:09:50.000Z",
+        "author": {
+          "id": "6a5a36…",
+          "username": "creator_d",
+          "name": "creator_d"
+        },
+        "metrics": {
+          "likes": 88,
+          "comments": 14,
+          "shares": 3,
+          "favorites": 22
+        }
+      },
+      {
+        "id": "6ae5e4de000000000d00ae5f",
+        "url": "https://www.xiaohongshu.com/explore/6ae5e4de000000000d00ae5f",
+        "type": "image",
+        "title": "Glad2Glow 防晒系列｜原来有两种不同选择！",
+        "text": "☀️ 最近研究 Glad2Glow，发现它家除了护肤精华、面霜，原来还有两款防晒相关产品！ 这次先把它们放在一起比较看看",
+        "published_at": "2026-10-31T12:53:50.000Z",
+        "author": {
+          "id": "6a5a36…",
+          "username": "creator_e",
+          "name": "creator_e"
+        },
+        "metrics": {
+          "likes": 38,
+          "comments": 0,
+          "shares": 7,
+          "favorites": 14
+        }
+      },
+      {
+        "id": "6a5e58f50000000002003c00",
+        "url": "https://www.xiaohongshu.com/explore/6a5e58f50000000002003c00",
+        "type": "image",
+        "title": "美国肤感最好的防晒之一",
+        "text": "适乐肤防晒 这款是油皮、敏皮友好。日常通勤没问题，肤感清爽不粘，我早上基本上水后直接涂，跟妆也不搓泥！高性价比！ 大家都",
+        "published_at": "2026-07-20T17:20:53.000Z",
+        "author": {
+          "id": "551626…",
+          "username": "creator_f",
+          "name": "creator_f"
+        },
+        "metrics": {
+          "likes": 4,
+          "comments": 1,
+          "shares": 0,
+          "favorites": 3
+        }
+      },
+      {
+        "id": "6af91fe3000000001901f4bc",
+        "url": "https://www.xiaohongshu.com/explore/6af91fe3000000001901f4bc",
+        "type": "image",
+        "title": "耐水4小时，就能4小时不补防晒吗？",
+        "text": "准备去海边，看到防晒写着“耐水4小时”，是不是觉得涂一次，就能安心玩半天？ 这个数字并不等于补涂间隔。澳洲癌症协会解释",
+        "published_at": "2026-11-15T02:58:43.000Z",
+        "author": {
+          "id": "6a3300…",
+          "username": "creator_g",
+          "name": "creator_g"
+        },
+        "metrics": {
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "favorites": 0
+        }
+      },
+      {
+        "id": "68bffec9000000001d016e69",
+        "url": "https://www.xiaohongshu.com/explore/68bffec9000000001d016e69",
+        "type": "video",
+        "title": "🇲🇾 谁敢信这伪素颜只用了一支防晒霜‼️",
+        "text": "#素颜防晒霜  #防晒  #平价防晒  #防晒霜  #素颜霜  #美妆好物  #护肤好物  #小资女护肤品",
+        "published_at": "2025-09-09T10:17:45.000Z",
+        "author": {
+          "id": "5d0aaa…",
+          "username": "creator_h",
+          "name": "creator_h"
+        },
+        "metrics": {
+          "likes": 289,
+          "comments": 7,
+          "shares": 15,
+          "favorites": 107
+        }
+      },
+      {
+        "id": "677768d5000000000b015975",
+        "url": "https://www.xiaohongshu.com/explore/677768d5000000000b015975",
+        "type": "image",
+        "title": "夏日搭配 防晒不累！",
+        "text": "马上又到了最热的季节 每次出门都担心晒黑 最近入手兰蔻的小白管防晒 质地轻薄 有点想乳液的感觉 SPF50防晒效果杠杠的",
+        "published_at": "2025-01-03T04:34:29.000Z",
+        "author": {
+          "id": "5814d2…",
+          "username": "creator_i",
+          "name": "creator_i"
+        },
+        "metrics": {
+          "likes": 3666,
+          "comments": 12,
+          "shares": 136,
+          "favorites": 1280
+        }
+      },
+      {
+        "id": "697c2fb4000000000a031a57",
+        "url": "https://www.xiaohongshu.com/explore/697c2fb4000000000a031a57",
+        "type": "video",
+        "title": "🇲🇾谁懂..能解放双手‼️⏰30秒✅好皮肤出门",
+        "text": "#马来西亚  #平价防晒  #每天涂防晒  #Prurity  #prurity贴贴防晒  #通勤防晒  #学生党",
+        "published_at": "2026-01-30T04:12:36.000Z",
+        "author": {
+          "id": "61ceed…",
+          "username": "creator_j",
+          "name": "creator_j"
+        },
+        "metrics": {
+          "likes": 2229,
+          "comments": 20,
+          "shares": 313,
+          "favorites": 1763
+        }
+      },
+      {
+        "id": "6afa8696000000001400f5a2",
+        "url": "https://www.xiaohongshu.com/explore/6afa8696000000001400f5a2",
+        "type": "image",
+        "title": "防晒可以偷懒，紫外线可不会！",
+        "text": "每天出门前，除了手机、钥匙、钱包，还有一样不能忘记——防晒霜！🤣 最近在用 ARTISTRY Skin Nutriti",
+        "published_at": "2026-11-16T04:29:10.000Z",
+        "author": {
+          "id": "5d6ba9…",
+          "username": "creator_k",
+          "name": "creator_k"
+        },
+        "metrics": {
+          "likes": 5,
+          "comments": 0,
+          "shares": 0,
+          "favorites": 1
+        }
+      },
+      {
+        "id": "6a3a2525000000000e021800",
+        "url": "https://www.xiaohongshu.com/explore/6a3a2525000000000e021800",
+        "type": "video",
+        "title": "🇲🇾原来不擦防晒会让🫘印变得更深！",
+        "text": "才知道🫘印一直淡不掉，原来不防晒也是其中一个原因 吓得我最近都勤劳擦防晒了😭 最近用得比较多的是有色防晒，赶时间的时",
+        "published_at": "2026-06-23T06:18:13.000Z",
+        "author": {
+          "id": "5dced0…",
+          "username": "creator_l",
+          "name": "creator_l"
+        },
+        "metrics": {
+          "likes": 59,
+          "comments": 0,
+          "shares": 5,
+          "favorites": 8
+        }
+      },
+      {
+        "id": "6a438803000000000e021800",
+        "url": "https://www.xiaohongshu.com/explore/6a438803000000000e021800",
+        "type": "video",
+        "title": "选哪个呢🤷🏻‍♀️",
+        "text": "不知道选哪个防晒霜看这里！ 🇰🇷牌子isntree防嗮霜 #防晒霜  #韩国  #isntree  #isntree",
+        "published_at": "2026-06-30T09:10:27.000Z",
+        "author": {
+          "id": "69dde2…",
+          "username": "creator_m",
+          "name": "creator_m"
+        },
+        "metrics": {
+          "likes": 23,
+          "comments": 1,
+          "shares": 0,
+          "favorites": 2
+        }
+      },
+      {
+        "id": "6acd91f40000000010000410",
+        "url": "https://www.xiaohongshu.com/explore/6acd91f40000000010000410",
+        "type": "video",
+        "title": "能提亮护肤长效控油的50+高倍防晒霜",
+        "text": "一起来解锁SHEENSTAR的光盾防晒吧～ #SHEENSTAR  #肌肤焕发自然光彩  #防晒霜",
+        "published_at": "2026-10-13T02:05:40.000Z",
+        "author": {
+          "id": "6a06c5…",
+          "username": "creator_n",
+          "name": "creator_n"
+        },
+        "metrics": {
+          "likes": 8,
+          "comments": 2,
+          "shares": 0,
+          "favorites": 2
+        }
+      }
+    ]
+  },
+  "page": {
+    "next_cursor": "c1.q90ijTTJvAY9FZ0RgQfNDQ",
+    "cursor_expires_at": "2026-11-24T10:03:02.851Z",
+    "has_more": true,
+    "returned": 14
+  }
+}
