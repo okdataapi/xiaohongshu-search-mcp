@@ -118,7 +118,7 @@ okdata 有远程 MCP：`https://api.okdata.online/mcp`（Streamable HTTP，请�
 
 A Xiaohongshu (RedNote) MCP server that needs no login: no account, no cookies, no browser. Six read-only tools
 let Claude Code, Codex, Cursor and other MCP clients search notes, read full text and comments, look up creators
-and see hot topics, at $0.02 a call (an empty or failed answer from the data source is charged too). One Python 3.9+ file, standard library only, stdio
+and see hot topics, at $0.02 a call (an empty or failed answer from the platform is charged too). One Python 3.9+ file, standard library only, stdio
 transport. Needs an okdata key in `OKDATA_API_KEY`: [sign up](https://okdata.online/signup/?src=gh-xiaohongshu-search-mcp).
 
 ```bash
